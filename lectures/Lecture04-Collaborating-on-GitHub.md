@@ -1,7 +1,5 @@
 # Using GitHub for group projects
 
-NOTE TO SELF: Make sure you demo a visual of how branching works!!
-
 ## Reminders about projects: 
 
 - If you're in the ACCEL program, solo project presentations will during at the *office hour* time of **4 PM** on **Monday, August 16** - so that's an hour earlier from when lecture starts!
